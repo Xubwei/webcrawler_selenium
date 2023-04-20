@@ -1,10 +1,10 @@
 # webcrawler_selenium
 
 一、爬蟲常見的四種方法
-- 1. PPT
-- 2. RSS
-- 3. Json檔
-- 4. HTML
+ 1. PPT
+ 2. RSS
+ 3. Json檔
+ 4. HTML
 
 二、動態爬蟲
 - 1. Selenium 基礎教學 (selenium基礎教學.ipynb)
