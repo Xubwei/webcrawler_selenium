@@ -1,4 +1,4 @@
-# webcrawler_selenium
+# 自學靜態爬蟲 + 動態爬蟲
 
 一、爬蟲常見的四種方法
  1. PPT (1.PTT爬蟲.py)
